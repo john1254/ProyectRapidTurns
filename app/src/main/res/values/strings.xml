@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RapidTurns</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Bienvenido</string>
+    <string name="str_Saludo">Hola (User)</string>
+    <string name="str_Cita">Tienes una cita en (Barbería) a las  (Hora Cita)</string>
+</resources>
