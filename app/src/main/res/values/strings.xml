@@ -5,4 +5,17 @@
     <string name="action_settings">Bienvenido</string>
     <string name="str_Saludo">Hola (User)</string>
     <string name="str_Cita">Tienes una cita en (Barbería) a las  (Hora Cita)</string>
+    <string name="str_Usuario">Usuario</string>
+    <string name="str_Password">Contraseña</string>
+    <string name="str_Ingresar">Ingresar</string>
+    <string name="str_NombreEmpresa">Nombre de tu organización</string>
+    <string name="str_DireccionEmpresa">Dirección de tu empresa</string>
+    <string name="str_ConfirmarContraseña">Por favor confirma tu contraseña</string>
+    <string name="str_CorreoElectronico">Correo Electrónico</string>
+    <string name="str_SinRegistro">¿Aún no te has registrado?</string>
+    <string name="str_RegistroUsuario">Registro Usuario</string>
+    <string name="str_RegistroAdministrador">Registro Administrador</string>
+    <string name="title_activity_login_usuario">LoginUsuario</string>
+    <string name="title_activity_registro_usuario">RegistroUsuario</string>
+    <string name="title_activity_login_administrador">LoginAdministrador</string>
 </resources>
