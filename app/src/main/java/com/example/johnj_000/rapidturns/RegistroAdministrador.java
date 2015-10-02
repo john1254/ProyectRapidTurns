@@ -5,12 +5,12 @@ import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
 
-public class LoginAdministrador extends Activity {
+public class RegistroAdministrador extends Activity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_login_administrador);
+        setContentView(R.layout.activity_registro_administrador);
     }
 
     @Override

@@ -15,6 +15,7 @@
     <string name="str_SinRegistro">¿Aún no te has registrado?</string>
     <string name="str_RegistroUsuario">Registro Usuario</string>
     <string name="str_RegistroAdministrador">Registro Administrador</string>
+    <string name="str_Registrarme">Registrarme</string>
     <string name="title_activity_login_usuario">LoginUsuario</string>
     <string name="title_activity_registro_usuario">RegistroUsuario</string>
     <string name="title_activity_login_administrador">LoginAdministrador</string>

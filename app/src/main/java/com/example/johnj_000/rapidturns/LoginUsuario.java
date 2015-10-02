@@ -21,8 +21,8 @@ public class LoginUsuario extends Activity {
         botonIngresar.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                String usuario=((EditText)findViewById(R.id.idUsuarioLogin)).getText().toString();
-                String contraseña=((EditText)findViewById(R.id.idContraseñaLogin)).getText().toString();
+                //String usuario=((EditText)findViewById(R.id.idUsuarioLogin)).getText().toString();
+                //String contraseña=((EditText)findViewById(R.id.idContraseñaLogin)).getText().toString();
                 Intent nuevoForm= new Intent(LoginUsuario.this,MainActivity.class);
                 startActivity(nuevoForm);
 
@@ -31,12 +31,16 @@ public class LoginUsuario extends Activity {
         botonRegistroAdmin.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+                Intent nuevoForm= new Intent(LoginUsuario.this,RegistroAdministrador.class);
+                startActivity(nuevoForm);
 
             }
         });
         botonRegistroUsuario.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+                Intent nuevoForm= new Intent(LoginUsuario.this,RegistroUsuario.class);
+                startActivity(nuevoForm);
 
             }
         });
